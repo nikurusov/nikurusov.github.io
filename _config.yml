@@ -1,0 +1,4 @@
+remote_theme: nikurusov/minima
+
+plugins:
+  - jekyll-remote-theme
