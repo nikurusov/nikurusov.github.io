@@ -1,8 +1,6 @@
 remote_theme: nikurusov/minima
 
-collections:
-  posts:
-    output: true
-
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag

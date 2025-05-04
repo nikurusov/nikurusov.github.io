@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "My First Blog Post"
 date: 2024-04-04
 tags: [scala, jvm, performance]

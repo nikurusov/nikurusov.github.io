@@ -1,3 +1,10 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+
 # About Me
 
 Hi, I'm Mikolai — a backend developer passionate about Scala, Java, and the JVM ecosystem.
