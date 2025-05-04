@@ -1,5 +1,7 @@
 remote_theme: nikurusov/minima
 
+baseurl: "/blog"
+
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
