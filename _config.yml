@@ -1,4 +1,8 @@
-remote_theme: nikurusov/minima
+remote_theme: nikurusov/minima@blog
+
+collections:
+  posts:
+    output: true
 
 plugins:
   - jekyll-remote-theme
