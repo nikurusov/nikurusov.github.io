@@ -1,4 +1,4 @@
-remote_theme: nikurusov/minima@blog
+remote_theme: nikurusov/minima
 
 collections:
   posts:
