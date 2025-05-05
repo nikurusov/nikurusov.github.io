@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nikurusov.github.io/blog/sitemap.xml

@@ -1,5 +1,10 @@
 remote_theme: nikurusov/minima
 
+google_site_verification: your-verification-code
+author: Nikita Urusov
+
+title: nikurusov
+
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
