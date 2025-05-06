@@ -7,6 +7,8 @@ title: nikurusov
 url: "https://nikurusov.github.io"
 baseurl: ""
 
+description: "Mikalai Urusau — Scala and JVM engineer focused on performance and internals"
+
 include:
   - robots.txt
 
