@@ -4,6 +4,9 @@ google_site_verification: o2Ycmmb2b2Y-7--UFooD7gdPQV4H7I-dbvf1WHI00QA
 author: Nikita Urusov
 title: nikurusov
 
+url: "https://nikurusov.github.io"
+baseurl: ""
+
 include:
   - robots.txt
 
