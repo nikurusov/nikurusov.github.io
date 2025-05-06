@@ -5,8 +5,6 @@ permalink: /about/
 ---
 
 
-# About Me
-
 Hi, I'm Mikolai — a backend developer passionate about Scala, Java, and the JVM ecosystem.
 
 I studied Applied Mathematics and Computer Science at Belarusian State University, where I developed a strong foundation in computer science and system design. The experience shaped my engineering mindset and taught me how to solve complex business problems effectively.
