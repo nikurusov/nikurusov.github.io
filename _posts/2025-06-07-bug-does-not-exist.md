@@ -5,7 +5,7 @@ date: 2025-06-07
 tags: [browser, curl, web, programming, bug]
 ---
 
-**TL;DR:** Always Google your problem first—maybe the issue you're trying to solve isn't really a problem.
+**TL;DR:** Browser and clients act differently. Always Google your problem first—maybe the issue you're trying to solve isn't really a problem.
 
 It's a classic story: you spend hours trying to fix something that doesn't actually exist...
 
